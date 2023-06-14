@@ -10,6 +10,7 @@
   <a href="jprz678@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
 </div></a>
+<img src="https://komarev.com/ghpvc/?enano17711&style=flat-square&color=blue" alt=""/>
 
 ###
 
