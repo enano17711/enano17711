@@ -10,7 +10,9 @@
   <a href="jprz678@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
 </div></a>
-<img src="https://komarev.com/ghpvc/?enano17711&style=flat-square&color=blue" alt=""/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=enano17711&style=flat-square&color=blue" alt=""/>
+</div>
 
 ###
 
@@ -51,6 +53,15 @@
 </div>
 
 ###
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enano17711&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enano17711&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <!--
 **enano17711/enano17711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
