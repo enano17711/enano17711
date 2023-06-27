@@ -5,10 +5,11 @@
 ###
 
 <div align="center">
-  <a href ="https://www.linkedin.com/in/juan-pablo-rodriguez-927945268">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=enano17711&style=flat-square&color=blue" alt=""/>
+   <div align="center">
+     <a href = "mailto:jprz678@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href ="https://www.linkedin.com/in/juan-pablo-rodriguez-927945268"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   </div>
+     <img src="https://komarev.com/ghpvc/?username=enano17711&style=flat-square&color=blue" alt=""/>
 </div>
 
 ###
